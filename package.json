@@ -8,9 +8,14 @@
   },
   "author": "",
   "license": "ISC",
+  "engines": {
+    "node": "10.16.3"
+  },
   "dependencies": {
     "body-parser": "^1.18.3",
     "ejs": "^2.6.1",
-    "express": "^4.16.3"
+    "express": "^4.16.3",
+    "lodash": "^4.17.11",
+    "mongosse": "^5.3.4"
   }
 }
